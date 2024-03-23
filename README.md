@@ -16,7 +16,7 @@ I'm Muhammad Ghazanfar, delighted to connect with you here. Currently pursuing m
 
 ### Featured Projects
 
-- 🧠 [Gender Bias Mitigation in NLP Models](https://github.com/MohdGhazanfar/Gender-Bias-Mitigation-NLP) - Working towards creating fair and equitable NLP models for Urdu.
+- 🧠 [DebiasUrduNLP](https://github.com/MohdGhazanfar/Gender-Bias-Mitigation-NLP) - Working towards creating fair and equitable NLP models for Urdu.
 - 🔒 [Network Intrusion Detection System](https://github.com/MohdGhazanfar/Network-Intrusion-Detection) - Enhancing cybersecurity through machine learning.
 - 🧪 [MLP Depth Hypothesis Experiment](https://github.com/MohdGhazanfar/MLP-Depth-Hypothesis) - Investigating neural network architectures.
   
