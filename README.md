@@ -10,6 +10,7 @@
 <a href="https://visitorbadge.io/status?path=mohdghazanfar%2Fmohdghazanfar"><img src="https://api.visitorbadge.io/api/visitors?path=mohdghazanfar%2Fmohdghazanfar&label=%F0%9F%8C%8D%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 </p>
 <br>
+
 I'm Muhammad Ghazanfar, delighted to connect with you here. Currently pursuing my B.S. in Computer Science at FAST-NUCES, I'm deeply driven by a passion for delving into the realms of **Machine Learning**, **Data Science**, and the exciting field of **Gen AI**. I thrive on engaging with challenging projects that serve as opportunities to hone and expand my skill set, particularly within the dynamic landscape of Artificial Intelligence.
 
 
