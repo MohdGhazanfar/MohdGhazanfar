@@ -18,6 +18,7 @@ I'm Muhammad Ghazanfar, delighted to connect with you here. Currently pursuing m
 ### Featured Projects
 
 - 🧠 [DebiasUrduNLP](https://github.com/MohdGhazanfar/DebiasUrduNLP) - Working towards creating fair and equitable NLP models for Urdu.
+- 🤖 [FAQ-Chatbot](https://github.com/MohdGhazanfar/FAQ-Chatbot). - Streamlining FAST NUCES FAQ management using Google's PaLM and RAG models.
 - 📘 [NLP-Essentials](https://github.com/MohdGhazanfar/NLP-Essentials) - Exploring the fundamentals of Natural Language Processing.
 - 🔒 [Network Intrusion Detection System](https://github.com/MohdGhazanfar/AI-based-Network-Intrusion-Detection-System) - Enhancing cybersecurity through machine learning.
 - 🧪 [MLP Depth Hypothesis Experiment](https://github.com/MohdGhazanfar/MLP-depth-hypothesis-experiment) - Investigating neural network architectures.
